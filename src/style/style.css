@@ -9,19 +9,25 @@ img {
 h1 {
   color: #273aaa;
   font-size: 4rem;
-  font-family: serif;
-  font-weight: 400;
+  font-family: "obviously", sans-serif;
+  font-weight: 700;
   font-style: normal;
 }
-h1 {
+h2 {
   color: #273aaa;
   font-size: 2rem;
   font-family: serif;
   font-weight: 400;
   font-style: normal;
+  font-family: "archivo-variable", sans-serif;
+  font-variation-settings: "wdth" 100, "wght" 600;
 }
 p {
   color: #1d1d1b;
   font-size: 1rem;
   font-family: "Lexend", sans-serif;
+  font-family: "archivo-variable", sans-serif;
+  font-variation-settings: "wdth" 100, "wght" 600;
+  font-family: "archivo-narrow-variable", sans-serif;
+  font-variation-settings: "wght" 400;
 }
